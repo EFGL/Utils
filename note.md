@@ -21,7 +21,8 @@
  * 例如下载一张网络图片，我们需要时刻显示其下载的进度，就可以使用这个方法来更新进度。这个方法在调用之前，我们需要在 doInBackground
  * 方法中调用一个 publishProgress(Progress) 的方法来将进度时时刻刻传递给 onProgressUpdate 方法来更新
  
-----------------------------------------------------------------------------------------------
+
+
 
 网址：
 
@@ -29,7 +30,8 @@
 https://github.com/android-cjj/Android-MaterialRefreshLayout/blob/master/README-cn.md
 https://github.com/jianghejie/XRecyclerView
 https://github.com/dinuscxj/RecyclerRefreshLayout
-----------------------------------------------------------------------------------------------
+
+
 * 各种刷新				      
 https://github.com/android-cjj/BeautifulRefreshLayout
 * ProgressBar		    		
@@ -62,7 +64,8 @@ https://github.com/Nightonke/JellyToggleButton/blob/master/README-ZH.md
 https://github.com/saiwu-bigkoo/Android-PickerView
 * LoonAndroid3封装的常用功能 
 https://github.com/gdpancheng/LoonAndroid3
-----------------------------------------------------------------------------------------------
+
+
 #actionbar左侧导航动画 
 * LDrawer	
 https://github.com/keklikhasan/LDrawer
@@ -72,13 +75,12 @@ https://github.com/markushi/android-ui
 https://github.com/balysv/material-menu
 * ActionBarDrawerToggle	
 Android自带
-*　uCrop图片裁剪				
+* uCrop图片裁剪				
 https://github.com/Yalantis/uCrop
 
 
 * 各种图片处理			
 http://www.jianshu.com/p/2720ad8d74da
-
 
 Android安卓开发知识库汇总	http://blog.csdn.net/asmcvc/article/details/51914982
 《Android 开发工程师面试指南》	http://www.diycode.cc/wiki/androidinterview
@@ -86,19 +88,36 @@ Android安卓开发知识库汇总	http://blog.csdn.net/asmcvc/article/details/5
 笔记				https://github.com/jiang111/awesome-android-tips
 
 
-reactnative开发				http://reactnative.cn/
-					http://www.w3ctech.com/topic/909?utm_source=tuicool&utm_medium=referral
-蓝灯					https://github.com/getlantern/lantern
-FlycoDialog_Master			https://github.com/H07000223/FlycoDialog_Master
-NiftyDialogEffects			https://github.com/sd6352051/NiftyDialogEffects
-AndroidViewAnimations动画	https://github.com/daimajia/AndroidViewAnimations
-AndroidUtil					https://github.com/Blankj/AndroidUtilCode
-免费VPN						http://blog.csdn.net/hellohaifei/article/details/8965477
-as插件						http://blog.csdn.net/liang5630/article/details/51867553
-吴晓龙个人技术				http://wuxiaolong.me/
-BRVAH分享吧					https://github.com/CymChad/BRVAHST
+reactnative开发
+http://reactnative.cn/
+http://www.w3ctech.com/topic/909?utm_source=tuicool&utm_medium=referral
 
-#开源项目集合							0.http://link.zhihu.com/?target=https%3A//github.com/Trinea/android-open-project
+蓝灯
+https://github.com/getlantern/lantern
+
+FlycoDialog_Master
+https://github.com/H07000223/FlycoDialog_Master
+
+NiftyDialogEffects		
+https://github.com/sd6352051/NiftyDialogEffects
+
+AndroidViewAnimations动画
+https://github.com/daimajia/AndroidViewAnimations
+
+AndroidUtil			
+https://github.com/Blankj/AndroidUtilCode
+
+免费VPN				
+http://blog.csdn.net/hellohaifei/article/details/8965477
+as插件	
+http://blog.csdn.net/liang5630/article/details/51867553
+吴晓龙个人技术		
+http://wuxiaolong.me/
+BRVAH分享吧	
+https://github.com/CymChad/BRVAHST
+
+#开源项目集合
+0.http://link.zhihu.com/?target=https%3A//github.com/Trinea/android-open-project
 1. http://www.androidviews.net/
 2. https://github.com/Trinea/android-open-project
 3.android DevAppsDirect apk几乎把Android的开源项目收集齐了 谷歌下载，百度下载
@@ -155,7 +174,7 @@ Caused by: java.lang.RuntimeException:
 	不可见与隐藏,一个占位一个不占位
 	gone这里不占位是指view完全隐藏,包括margin所占距离的属性,
 	invisibie不行,即使view不可见了,但view所占额外距离(margin)仍在
-	```
+```
 	
 * SwipRefreshLayout
 ```
@@ -266,7 +285,8 @@ fis.close();
 
 String str = new String(b);
 ```
-----------------------------------------------------------------------------------------------
+
+
 //android studio assets资产目录
 //src\main\assets\file
 
@@ -304,4 +324,5 @@ String str = new String(b);
             }
         }
   ```
-----------------------------------------------------------------------------------------------
+  
+  
