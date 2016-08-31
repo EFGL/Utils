@@ -1,7 +1,6 @@
 #随手记
 
-* D:\Android\workspace\gz_key\SXgangzhangKey\bin
-----------------------------------------------------------------------------------------------
+ * D:\Android\workspace\gz_key\SXgangzhangKey\bin
 
  * AsyncTask
  * android提供给我们的一个多线程编程框架,用来进行耗时的操作。防止ANR（Application not responding）
@@ -35,52 +34,58 @@ https://github.com/dinuscxj/RecyclerRefreshLayout
 https://github.com/android-cjj/BeautifulRefreshLayout
 * ProgressBar		    		
 https://github.com/lsjwzh/MaterialLoadingProgressBar
-CircularProgressView		
+* CircularProgressView		
 https://github.com/rahatarmanahmed/CircularProgressView
-NumberProgressBar	  		
+* NumberProgressBar	  		
 https://github.com/daimajia/NumberProgressBar
-开源框架				      	
+* 开源框架				      	
 http://gank.io/
-MaterialSearchBar		  
+* MaterialSearchBar		  
 https://github.com/mancj/MaterialSearchBar
-BottomDialog		    	
+* BottomDialog		    	
 https://github.com/Curzibn/BottomDialog?
-IndexableListView		 
+* IndexableListView		 
 https://github.com/woozzu/IndexableListView
-MaterialDrawer侧滑菜单	
+* MaterialDrawer侧滑菜单	
 https://github.com/mikepenz/MaterialDrawer
-PersistentSearch		  
+* PersistentSearch		  
 https://github.com/Quinny898/PersistentSearch
-sweet-alert-dialog	
+* sweet-alert-dialog	
 https://github.com/pedant/sweet-alert-dialog
-android-floating-action-button
+* android-floating-action-button
 https://github.com/futuresimple/android-floating-action-button
-quicksidebar索引	
+* quicksidebar索引	
 https://github.com/saiwu-bigkoo/Android-QuickSideBar
-JellyToggleButton		   
+* JellyToggleButton		   
 https://github.com/Nightonke/JellyToggleButton/blob/master/README-ZH.md
-PickerView时间选择控件	  
+* PickerView时间选择控件	  
 https://github.com/saiwu-bigkoo/Android-PickerView
-LoonAndroid3封装的常用功能 
+* LoonAndroid3封装的常用功能 
 https://github.com/gdpancheng/LoonAndroid3
 ----------------------------------------------------------------------------------------------
-* actionbar左侧导航动画 
-LDrawer				https://github.com/keklikhasan/LDrawer
-android-ui		  	https://github.com/markushi/android-ui
-material-menu	  		https://github.com/balysv/material-menu
-ActionBarDrawerToggle		Android自带
-----------------------------------------------------------------------------------------------
+#actionbar左侧导航动画 
+* LDrawer	
+https://github.com/keklikhasan/LDrawer
+* android-ui		  
+https://github.com/markushi/android-ui
+* material-menu	  	
+https://github.com/balysv/material-menu
+* ActionBarDrawerToggle	
+Android自带
 *　uCrop图片裁剪				
 https://github.com/Yalantis/uCrop
-----------------------------------------------------------------------------------------------
+
+
 * 各种图片处理			
 http://www.jianshu.com/p/2720ad8d74da
-----------------------------------------------------------------------------------------------
+
+
 Android安卓开发知识库汇总	http://blog.csdn.net/asmcvc/article/details/51914982
 《Android 开发工程师面试指南》	http://www.diycode.cc/wiki/androidinterview
 国内一线互联网公司内部面试题库	https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md
 笔记				https://github.com/jiang111/awesome-android-tips
-----------------------------------------------------------------------------------------------
+
+
 reactnative开发				http://reactnative.cn/
 					http://www.w3ctech.com/topic/909?utm_source=tuicool&utm_medium=referral
 蓝灯					https://github.com/getlantern/lantern
@@ -92,29 +97,32 @@ AndroidUtil					https://github.com/Blankj/AndroidUtilCode
 as插件						http://blog.csdn.net/liang5630/article/details/51867553
 吴晓龙个人技术				http://wuxiaolong.me/
 BRVAH分享吧					https://github.com/CymChad/BRVAHST
-----------------------------------------------------------------------------------------------
-							0.http://link.zhihu.com/?target=https%3A//github.com/Trinea/android-open-project
-							1. http://www.androidviews.net/
-							2. https://github.com/Trinea/android-open-project
-							3.android DevAppsDirect apk几乎把Android的开源项目收集齐了 谷歌下载，百度下载
-开源项目集合							
-							4.http://blog.tisa7.com/android_open_source_projects
-							5.http://blog.daimajia.com/?page_id=60
-							6.http://www.23code.com/
-							7.https://f-droid.org/ 一个很好的网站，种类比较多不只局限于UI
-							8.https://github.com/Freelander/Android_Data/blob/master/Android-Librarys-Top-100.md
-							9.http://blog.daimajia.com/android-library-collection/
-							10.http://m.blog.csdn.net/article/details?id=50542590
-----------------------------------------------------------------------------------------------
-google color				https://material.google.com/style/color.html#color-color-palette
-----------------------------------------------------------------------------------------------
-XUtils 异常信息(callback没写模版)
-```
-java.lang.IllegalArgumentException: FindGenericType:class com.gz.repair.LoginActivity$1, declaredClass: interface org.xutils.common.Callback$CommonCallback, index: 0
-```
-----------------------------------------------------------------------------------------------
 
-PopupWindow 的用法
+#开源项目集合							0.http://link.zhihu.com/?target=https%3A//github.com/Trinea/android-open-project
+1. http://www.androidviews.net/
+2. https://github.com/Trinea/android-open-project
+3.android DevAppsDirect apk几乎把Android的开源项目收集齐了 谷歌下载，百度下载
+4.http://blog.tisa7.com/android_open_source_projects
+5.http://blog.daimajia.com/?page_id=60
+6.http://www.23code.com/
+7.https://f-droid.org/ 一个很好的网站，种类比较多不只局限于UI
+8.https://github.com/Freelander/Android_Data/blob/master/Android-Librarys-Top-100.md
+9.http://blog.daimajia.com/android-library-collection/
+10.http://m.blog.csdn.net/article/details?id=50542590
+
+
+* google color	https://material.google.com/style/color.html#color-color-palette
+
+* XUtils 异常信息(callback没写模版)
+```
+java.lang.IllegalArgumentException:
+FindGenericType:class com.gz.repair.LoginActivity$1, declaredClass:
+interface org.xutils.common.Callback$CommonCallback, index: 0
+```
+
+
+
+* PopupWindow 的用法
 ```
         // 下拉选择框 显示一个listView 宽：200 高：400
         PopupWindow popupWindow = new PopupWindow(listView,200 ,400);
@@ -133,26 +141,28 @@ PopupWindow 的用法
 		// 让 pop 消失的方法
 		popupWindow.dismiss();
 ```
-----------------------------------------------------------------------------------------------
+
+* Andorid L theme colorPrimary 
+不能使用带有alpha的颜色值，否则会有异常抛出，直接判断了是否alpha是否等于0或者255，其他都会异常
 ```
 Caused by: java.lang.RuntimeException:
 			 A TaskDescription's primary color should be opaque
 ```
-Andorid L theme colorPrimary 不能使用带有alpha的颜色值，否则会有异常抛出，直接判断了是否alpha是否等于0或者255，其他都会异常
-----------------------------------------------------------------------------------------------
+
+
 * invisibie与gone区别
 ```
 	不可见与隐藏,一个占位一个不占位
 	gone这里不占位是指view完全隐藏,包括margin所占距离的属性,
 	invisibie不行,即使view不可见了,但view所占额外距离(margin)仍在
 	```
-----------------------------------------------------------------------------------------------
+	
 * SwipRefreshLayout
 ```
 	被包裹的view要有值,指RecyclerView等,没值显示异常
 ```
-----------------------------------------------------------------------------------------------
-Menu
+
+* Menu
 ```
 	<item
 	        android:id="@+id/action_search"
@@ -160,48 +170,59 @@ Menu
 	        android:title="search"
 	        app:showAsAction="never" />
 ```
-----------------------------------------------------------------------------------------------
-github 提交新项目
+
+
+* github 提交新项目
 ```
 	VCS->Import into Version Control->Share Project on GitHub
 ```
-github 提交更新代码
+* github 提交更新代码
 ```
 	右键java类 点git 先add到git库 才能conmmit and push
 ```
 http://www.shaoqun.com/a/161180.aspx
-----------------------------------------------------------------------------------------------
 
-CardView 设置点击效果(作为item)
+
+* CardView 设置点击效果(作为item)
+```
 		android:foreground="?android:attr/selectableItemBackground"
 		android:clickable="true"
-----------------------------------------------------------------------------------------------
+```
+```
 android:fitsSystemWindows="true" //通知栏颜色适应屏幕的颜色变化而变化(设置在根布局) 
-----------------------------------------------------------------------------------------------
+```
+
+```
 Button或ImageButton等自带按钮功能的控件会抢夺所在Layout的焦点.导致其他区域点击不生效.
 在所在layout声明一个属性 android:descendantFocusability="blocksDescendants" // 该属性意为：子孙View分区域获取焦点 
+```
 
-----------------------------------------------------------------------------------------------
+
 * 二维码：
 本质是一段字符串。
 二维码由黑格白格组成，就代表着计算机的0和1.
 扫描二维码就是读取了图中的0和1数据，在将0和1拼接，最后转为字符串。
 所以稀疏的二维码代表数据少，秘籍的二维码代表数据多。
 二维码外侧三个最大的黑框，不是数据，是来锁定二维码的范围。
-----------------------------------------------------------------------------------------------
+
+
 ```
 TelephonyManager tm = (TelephonyManager)getSystemService(TELEPHONY_SERVICE); 
 String deviceId = tm.getDeviceId();
 ```
-----------------------------------------------------------------------------------------------
+
+
 ```
 measure(int widthMeasureSpec, int heightMeasureSpec)
+```
+
 ```
 // measure(0,0);
 //参数是Android自定义的常量MeasureSpec.UNSPECIFIED	MeasureSpec.AT_MOST	MeasureSpec.EXACTLY
 //0是UNSPECIFIED，1是EXACTLY，2是AT_MOST
-----------------------------------------------------------------------------------------------
-如果你正在用Gradle插件v2.0或者更高，我有一个简洁方法去启用它：
+```
+
+#如果你正在用Gradle插件v2.0或者更高，我有一个简洁方法去启用它：
 ```
 			android {
 			  defaultConfig {
@@ -209,7 +230,7 @@ measure(int widthMeasureSpec, int heightMeasureSpec)
 			  }
 			}
 ```
-如果你还没有更新，在用v1.5后者更低的版本，你需要在你的build.gradle文件里添加以下内容:
+#如果你还没有更新，在用v1.5后者更低的版本，你需要在你的build.gradle文件里添加以下内容:
 ```
 android {
 			  defaultConfig {
@@ -222,11 +243,15 @@ android {
 			  }
 			}
 ```
-----------------------------------------------------------------------------------------------
-// 随机色:
+
+
+* 随机色:
+```
 int color = Color.rgb((int)(Math.Random()*256),(int)(Math.Random()*256),(int)(Math.Random()*256));
-----------------------------------------------------------------------------------------------
-//内部存储;存储目录在 packageName/file/文件名
+```
+
+
+* 内部存储;存储目录在 packageName/file/文件名
 ```
 // 写数据
 FileOutputStream fos = context.openFileOutput(fileName,Context.MODE_PRIVATE);
