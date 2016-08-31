@@ -1,8 +1,8 @@
 #随手记
 
-##D:\Android\workspace\gz_key\SXgangzhangKey\bin
+* D:\Android\workspace\gz_key\SXgangzhangKey\bin
 ----------------------------------------------------------------------------------------------
-/*
+
  * AsyncTask
  * android提供给我们的一个多线程编程框架,用来进行耗时的操作。防止ANR（Application not responding）
  * 内部实现了Handler和多线程的线程池，线程池会通过根据当前机器运行CUP的个数决定线程池中的线程个数
@@ -21,53 +21,69 @@
  * onProgressUpdate(Progess… values): 这个方法也是在UI Thread当中执行的，在异步任务执行的时候，有时需要将执行的进度返回给UI界面，
  * 例如下载一张网络图片，我们需要时刻显示其下载的进度，就可以使用这个方法来更新进度。这个方法在调用之前，我们需要在 doInBackground
  * 方法中调用一个 publishProgress(Progress) 的方法来将进度时时刻刻传递给 onProgressUpdate 方法来更新
- * 
- */
-
-----------------------------------------------------------------------------------------------
+ 
 ----------------------------------------------------------------------------------------------
 
 网址：
 
-RecyclerView 刷新			https://github.com/android-cjj/Android-MaterialRefreshLayout/blob/master/README-cn.md
-							        https://github.com/jianghejie/XRecyclerView
-						        	https://github.com/dinuscxj/RecyclerRefreshLayout
+* RecyclerView 刷新
+https://github.com/android-cjj/Android-MaterialRefreshLayout/blob/master/README-cn.md
+https://github.com/jianghejie/XRecyclerView
+https://github.com/dinuscxj/RecyclerRefreshLayout
 ----------------------------------------------------------------------------------------------
-各种刷新				      	https://github.com/android-cjj/BeautifulRefreshLayout
-ProgressBar		    			https://github.com/lsjwzh/MaterialLoadingProgressBar
-CircularProgressView		https://github.com/rahatarmanahmed/CircularProgressView
-NumberProgressBar	  		https://github.com/daimajia/NumberProgressBar
-开源框架				      	http://gank.io/
-MaterialSearchBar		  	https://github.com/mancj/MaterialSearchBar
-BottomDialog		    		https://github.com/Curzibn/BottomDialog?
-IndexableListView		  	https://github.com/woozzu/IndexableListView
-MaterialDrawer侧滑菜单		https://github.com/mikepenz/MaterialDrawer
-PersistentSearch		  	https://github.com/Quinny898/PersistentSearch
-sweet-alert-dialog			https://github.com/pedant/sweet-alert-dialog
-android-floating-action-button https://github.com/futuresimple/android-floating-action-button
-quicksidebar索引		      	https://github.com/saiwu-bigkoo/Android-QuickSideBar
-JellyToggleButton		      	https://github.com/Nightonke/JellyToggleButton/blob/master/README-ZH.md
-PickerView时间选择控件	  	https://github.com/saiwu-bigkoo/Android-PickerView
-LoonAndroid3封装的常用功能  https://github.com/gdpancheng/LoonAndroid3
+* 各种刷新				      
+https://github.com/android-cjj/BeautifulRefreshLayout
+* ProgressBar		    		
+https://github.com/lsjwzh/MaterialLoadingProgressBar
+CircularProgressView		
+https://github.com/rahatarmanahmed/CircularProgressView
+NumberProgressBar	  		
+https://github.com/daimajia/NumberProgressBar
+开源框架				      	
+http://gank.io/
+MaterialSearchBar		  
+https://github.com/mancj/MaterialSearchBar
+BottomDialog		    	
+https://github.com/Curzibn/BottomDialog?
+IndexableListView		 
+https://github.com/woozzu/IndexableListView
+MaterialDrawer侧滑菜单	
+https://github.com/mikepenz/MaterialDrawer
+PersistentSearch		  
+https://github.com/Quinny898/PersistentSearch
+sweet-alert-dialog	
+https://github.com/pedant/sweet-alert-dialog
+android-floating-action-button
+https://github.com/futuresimple/android-floating-action-button
+quicksidebar索引	
+https://github.com/saiwu-bigkoo/Android-QuickSideBar
+JellyToggleButton		   
+https://github.com/Nightonke/JellyToggleButton/blob/master/README-ZH.md
+PickerView时间选择控件	  
+https://github.com/saiwu-bigkoo/Android-PickerView
+LoonAndroid3封装的常用功能 
+https://github.com/gdpancheng/LoonAndroid3
 ----------------------------------------------------------------------------------------------
-actionbar左侧导航动画 
-LDrawer					    	https://github.com/keklikhasan/LDrawer
-android-ui		  			https://github.com/markushi/android-ui
-material-menu	  			https://github.com/balysv/material-menu
+* actionbar左侧导航动画 
+LDrawer				https://github.com/keklikhasan/LDrawer
+android-ui		  	https://github.com/markushi/android-ui
+material-menu	  		https://github.com/balysv/material-menu
 ActionBarDrawerToggle		Android自带
 ----------------------------------------------------------------------------------------------
-uCrop图片裁剪				https://github.com/Yalantis/uCrop
+*　uCrop图片裁剪				
+https://github.com/Yalantis/uCrop
 ----------------------------------------------------------------------------------------------
-各种图片处理				http://www.jianshu.com/p/2720ad8d74da
+* 各种图片处理			
+http://www.jianshu.com/p/2720ad8d74da
 ----------------------------------------------------------------------------------------------
-Android安卓开发知识库汇总		http://blog.csdn.net/asmcvc/article/details/51914982
+Android安卓开发知识库汇总	http://blog.csdn.net/asmcvc/article/details/51914982
 《Android 开发工程师面试指南》	http://www.diycode.cc/wiki/androidinterview
 国内一线互联网公司内部面试题库	https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md
-笔记						https://github.com/jiang111/awesome-android-tips
+笔记				https://github.com/jiang111/awesome-android-tips
 ----------------------------------------------------------------------------------------------
 reactnative开发				http://reactnative.cn/
-							http://www.w3ctech.com/topic/909?utm_source=tuicool&utm_medium=referral
-蓝灯						https://github.com/getlantern/lantern
+					http://www.w3ctech.com/topic/909?utm_source=tuicool&utm_medium=referral
+蓝灯					https://github.com/getlantern/lantern
 FlycoDialog_Master			https://github.com/H07000223/FlycoDialog_Master
 NiftyDialogEffects			https://github.com/sd6352051/NiftyDialogEffects
 AndroidViewAnimations动画	https://github.com/daimajia/AndroidViewAnimations
@@ -124,21 +140,25 @@ Caused by: java.lang.RuntimeException:
 ```
 Andorid L theme colorPrimary 不能使用带有alpha的颜色值，否则会有异常抛出，直接判断了是否alpha是否等于0或者255，其他都会异常
 ----------------------------------------------------------------------------------------------
-invisibie与gone区别
+* invisibie与gone区别
+```
 	不可见与隐藏,一个占位一个不占位
 	gone这里不占位是指view完全隐藏,包括margin所占距离的属性,
 	invisibie不行,即使view不可见了,但view所占额外距离(margin)仍在
+	```
 ----------------------------------------------------------------------------------------------
-SwipRefreshLayout
+* SwipRefreshLayout
+```
 	被包裹的view要有值,指RecyclerView等,没值显示异常
+```
 ----------------------------------------------------------------------------------------------
 Menu
 ```
 	<item
-        android:id="@+id/action_search"
-        android:orderInCategory="10" // 该值越小，越靠前
-        android:title="search"
-        app:showAsAction="never" />
+	        android:id="@+id/action_search"
+	        android:orderInCategory="10" // 该值越小，越靠前
+	        android:title="search"
+	        app:showAsAction="never" />
 ```
 ----------------------------------------------------------------------------------------------
 github 提交新项目
@@ -162,7 +182,7 @@ Button或ImageButton等自带按钮功能的控件会抢夺所在Layout的焦点
 在所在layout声明一个属性 android:descendantFocusability="blocksDescendants" // 该属性意为：子孙View分区域获取焦点 
 
 ----------------------------------------------------------------------------------------------
-二维码：
+* 二维码：
 本质是一段字符串。
 二维码由黑格白格组成，就代表着计算机的0和1.
 扫描二维码就是读取了图中的0和1数据，在将0和1拼接，最后转为字符串。
