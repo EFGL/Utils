@@ -1,5 +1,6 @@
 #随手记
-D:\Android\workspace\gz_key\SXgangzhangKey\bin
+
+##D:\Android\workspace\gz_key\SXgangzhangKey\bin
 ----------------------------------------------------------------------------------------------
 /*
  * AsyncTask
@@ -206,7 +207,7 @@ android {
 int color = Color.rgb((int)(Math.Random()*256),(int)(Math.Random()*256),(int)(Math.Random()*256));
 ----------------------------------------------------------------------------------------------
 //内部存储;存储目录在 packageName/file/文件名
-
+```
 // 写数据
 FileOutputStream fos = context.openFileOutput(fileName,Context.MODE_PRIVATE);
 fos.write(String.getBytes());
@@ -219,6 +220,7 @@ fis.red(b);
 fis.close();
 
 String str = new String(b);
+```
 ----------------------------------------------------------------------------------------------
 //android studio assets资产目录
 //src\main\assets\file
